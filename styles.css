@@ -10,7 +10,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:url(school.jpg) no-repeat;
+    background:url(school.jpg);
+    background-repeat: no-repeat;
     zoom: 80fr;
     backdrop-filter: blur(10px);
     background-size: cover;
@@ -107,4 +108,5 @@ body{
     text-decoration: underline;
 
 }
+
 
