@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:url(Pictures/school.jpg) no-repeat ;
+    background:url(Pictures/school.jpg);
     zoom: 80fr;
     backdrop-filter: blur(10px);
     background-size: cover;
@@ -105,4 +105,5 @@ body{
 }
 .register-link p a:hover{
     text-decoration: underline;
+
 }
